@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @sparklezzy
 - 👀 I’m interested in study
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i'm very busy
+- 🌱 I’m currently learning python, java e C
 
 <!---
 sparklezzy/sparklezzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
