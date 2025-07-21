@@ -1,4 +1,4 @@
-<h1 align="center">✨ Maria Izabel ✨</h1>
+<h1 align="center"> Izabel (Sparklezzy) 🐇</h1>
 
 <p align="center"><i>"Nada na vida deve ser temido, apenas compreendido. Agora é hora de compreender mais, para que possamos temer menos."<br>––– Marie Curie</i></p>
 
